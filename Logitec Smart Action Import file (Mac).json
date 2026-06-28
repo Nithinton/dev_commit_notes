@@ -1,0 +1,321 @@
+{
+  "cards": [
+    {
+      "applicationId": "",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "",
+      "continuous": false,
+      "executeOnProfileChange": false,
+      "id": "",
+      "isCommand": false,
+      "macro": {
+        "actionName": "",
+        "alternateMacros": [],
+        "icon": "",
+        "initPeriod": 0,
+        "inputSequence": {
+          "componentLists": [
+            {
+              "components": [
+                {
+                  "delay": {
+                    "durationMs": 21
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "^Ctrl",
+                    "hidUsage": 224,
+                    "isDown": true,
+                    "virtualKeyId": ""
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "`",
+                    "hidUsage": 53,
+                    "isDown": true,
+                    "virtualKeyId": "VK_GRAVE"
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "`",
+                    "hidUsage": 53,
+                    "isDown": false,
+                    "virtualKeyId": "VK_GRAVE"
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "^Ctrl",
+                    "hidUsage": 224,
+                    "isDown": false,
+                    "virtualKeyId": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultDelay": 21,
+          "showUpDown": false,
+          "useDefaultDelay": true
+        },
+        "onboardable": false,
+        "repeatPeriod": 0,
+        "type": "INPUT_SEQUENCE"
+      },
+      "name": "",
+      "nestedCards": {},
+      "nestedCardsOrder": [],
+      "readOnly": false,
+      "requireFocus": false,
+      "selectedNestedCard": "",
+      "state": "READY",
+      "tags": ["PRESET_TAG_KEY_OR_BUTTON"],
+      "taskId": 0
+    },
+    {
+      "applicationId": "",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "",
+      "continuous": false,
+      "executeOnProfileChange": false,
+      "id": "",
+      "isCommand": false,
+      "macro": {
+        "actionName": "",
+        "alternateMacros": [],
+        "delay": {
+          "durationMs": 500
+        },
+        "icon": "",
+        "initPeriod": 0,
+        "onboardable": false,
+        "repeatPeriod": 0,
+        "type": "DELAY"
+      },
+      "name": "",
+      "nestedCards": {},
+      "nestedCardsOrder": [],
+      "readOnly": false,
+      "requireFocus": false,
+      "selectedNestedCard": "",
+      "state": "READY",
+      "tags": [],
+      "taskId": 0
+    },
+    {
+      "applicationId": "",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "",
+      "continuous": false,
+      "executeOnProfileChange": false,
+      "id": "text_block_card",
+      "isCommand": false,
+      "macro": {
+        "actionName": "",
+        "alternateMacros": [],
+        "icon": "",
+        "initPeriod": 0,
+        "onboardable": false,
+        "repeatPeriod": 0,
+        "textBlock": {
+          "cat": "",
+          "id": "",
+          "text": " python3 \"/your_file_location/devnotes.py\"\n"
+        },
+        "type": "TEXT_BLOCK"
+      },
+      "name": "text_block_card",
+      "nestedCards": {},
+      "nestedCardsOrder": [],
+      "readOnly": false,
+      "requireFocus": false,
+      "selectedNestedCard": "",
+      "state": "READY",
+      "tags": ["PRESET_TAG_KEY_OR_BUTTON"],
+      "taskId": 0
+    },
+    {
+      "applicationId": "",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "",
+      "continuous": false,
+      "executeOnProfileChange": false,
+      "id": "",
+      "isCommand": false,
+      "macro": {
+        "actionName": "",
+        "alternateMacros": [],
+        "icon": "",
+        "initPeriod": 0,
+        "inputSequence": {
+          "componentLists": [
+            {
+              "components": [
+                {
+                  "delay": {
+                    "durationMs": 21
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "⏎Return",
+                    "hidUsage": 40,
+                    "isDown": true,
+                    "virtualKeyId": ""
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "⏎Return",
+                    "hidUsage": 40,
+                    "isDown": false,
+                    "virtualKeyId": ""
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultDelay": 21,
+          "showUpDown": false,
+          "useDefaultDelay": true
+        },
+        "onboardable": false,
+        "repeatPeriod": 0,
+        "type": "INPUT_SEQUENCE"
+      },
+      "name": "",
+      "nestedCards": {},
+      "nestedCardsOrder": [],
+      "readOnly": false,
+      "requireFocus": false,
+      "selectedNestedCard": "",
+      "state": "READY",
+      "tags": ["PRESET_TAG_KEY_OR_BUTTON"],
+      "taskId": 0
+    },
+    {
+      "applicationId": "",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "",
+      "continuous": false,
+      "executeOnProfileChange": false,
+      "id": "",
+      "isCommand": false,
+      "macro": {
+        "actionName": "",
+        "alternateMacros": [],
+        "delay": {
+          "durationMs": 500
+        },
+        "icon": "",
+        "initPeriod": 0,
+        "onboardable": false,
+        "repeatPeriod": 0,
+        "type": "DELAY"
+      },
+      "name": "",
+      "nestedCards": {},
+      "nestedCardsOrder": [],
+      "readOnly": false,
+      "requireFocus": false,
+      "selectedNestedCard": "",
+      "state": "READY",
+      "tags": [],
+      "taskId": 0
+    },
+    {
+      "applicationId": "",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "",
+      "continuous": false,
+      "executeOnProfileChange": false,
+      "id": "",
+      "isCommand": false,
+      "macro": {
+        "actionName": "",
+        "alternateMacros": [],
+        "icon": "",
+        "initPeriod": 0,
+        "inputSequence": {
+          "componentLists": [
+            {
+              "components": [
+                {
+                  "delay": {
+                    "durationMs": 21
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "⌘Cmd",
+                    "hidUsage": 227,
+                    "isDown": true,
+                    "virtualKeyId": ""
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "Q",
+                    "hidUsage": 20,
+                    "isDown": true,
+                    "virtualKeyId": "VK_Q"
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "⌘Cmd",
+                    "hidUsage": 227,
+                    "isDown": false,
+                    "virtualKeyId": ""
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "Q",
+                    "hidUsage": 20,
+                    "isDown": false,
+                    "virtualKeyId": "VK_Q"
+                  }
+                }
+              ]
+            }
+          ],
+          "defaultDelay": 21,
+          "showUpDown": false,
+          "useDefaultDelay": true
+        },
+        "onboardable": false,
+        "repeatPeriod": 0,
+        "type": "INPUT_SEQUENCE"
+      },
+      "name": "",
+      "nestedCards": {},
+      "nestedCardsOrder": [],
+      "readOnly": false,
+      "requireFocus": false,
+      "selectedNestedCard": "",
+      "state": "READY",
+      "tags": ["PRESET_TAG_KEY_OR_BUTTON"],
+      "taskId": 0
+    }
+  ],
+  "categories": [],
+  "customCategories": {
+    "categories": []
+  },
+  "description": "Reads clipboard hash, fetches commit details, else shows latest commit details.",
+  "iconPath": "",
+  "id": "fe69228b-0e48-461a-9cda-434e22fb532c",
+  "lastEditTimestamp": "1782642055137",
+  "name": "Extract Commit Details",
+  "originType": "CUSTOM",
+  "platform": "OSX",
+  "predefinedIdRef": "",
+  "restrictedRegions": [],
+  "specificRegions": [],
+  "state": "ACTIVE",
+  "usageCount": 0
+}
